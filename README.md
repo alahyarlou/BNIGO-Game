@@ -1,7 +1,3 @@
-Here's a sample README file for your Bingo game:
-
----
-
 # Bingo Game - Number Guessing Game
 
 ## Overview
